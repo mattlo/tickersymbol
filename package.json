@@ -1,0 +1,27 @@
+{
+  "name": "tickersymbol",
+  "version": "0.0.1",
+  "description": "Obtains quote information from a given stock symbol",
+  "main": "lib/tickersymbol.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mattlo/tickersymbol.git"
+  },
+  "keywords": [
+    "stock",
+    "quote"
+  ],
+  "author": "Matt Lo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattlo/tickersymbol/issues"
+  },
+  "homepage": "https://github.com/mattlo/tickersymbol",
+  "preferGlobal": "true",
+  "bin": {
+    "filesearch" : "lib/tickersymbol.js"
+  }
+}
