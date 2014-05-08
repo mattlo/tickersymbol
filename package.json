@@ -1,6 +1,6 @@
 {
   "name": "tickersymbol",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Obtains quote information from a given stock symbol",
   "main": "lib/tickersymbol.js",
   "repository": {
