@@ -1,2 +1,12 @@
-# A simple ticker symbol quote output on terminal
-Obtains quote information from a given stock symbol.
+# tickersymbol
+Obtains quote information from a given stock symbol through terminal.
+
+## Install
+```
+npm install -g tickersymbol
+```
+
+## Example Usage
+```
+tickersymbol aapl
+```
