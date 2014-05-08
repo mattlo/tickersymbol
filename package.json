@@ -19,6 +19,6 @@
   "homepage": "https://github.com/mattlo/tickersymbol",
   "preferGlobal": "true",
   "bin": {
-    "filesearch" : "lib/tickersymbol.js"
+    "tickersymbol" : "lib/tickersymbol.js"
   }
 }
